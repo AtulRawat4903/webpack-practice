@@ -1,0 +1,1 @@
+This repo was created to practice Webpack as per **The Odin Project** curriculum.
