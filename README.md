@@ -1,1 +1,1 @@
-This repository was created to practice **Webpack** as per **The Odin Project** curriculum.
+This repository was created to practice the basic fundamentals of **Webpack** as per **The Odin Project** curriculum.
